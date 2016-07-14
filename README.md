@@ -2,7 +2,7 @@
 
 Concept of an stock data reader app.
 
-Data is being pulled from Google Finance, i.e. “https://www.google.com/finance/info?q=GM”
+Data is being pulled from Google Finance (https://www.google.com/finance/info?q=GM)
 
 Result is parsed as JSON and displayed to user.
 
